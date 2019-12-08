@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575738350 source:d:\cpp\projects\labs\3_fib_size\3\main.cpp
+	<iostream>
+	"including.hpp"
+
+1575736888 source:d:\cpp\projects\labs\3_fib_size\3\fib.cpp
+
+1575737368 d:\cpp\projects\labs\3_fib_size\3\including.hpp
+
+1575735074 source:d:\cpp\projects\labs\3_fib_size\3\del.cpp
+
+1575737368 source:d:\cpp\projects\labs\3_fib_size\3\leng.cpp
+
